@@ -1,0 +1,267 @@
+[
+    {
+        "chef_id": 1,
+        "chef_picture": "https://ibb.co/X320TdM",
+        "chef_name": "Nadia Rahman",
+        "chef_bio": "Nadia Rahman is a renowned Bangladeshi chef with over 20 years of experience in the culinary industry. She is known for her authentic recipes and dedication to preserving traditional Bangladeshi flavors.",
+        "year_of_experience": 20,
+        "likes": 10000,
+        "recipes": [
+            {
+                "recipe_name": "Shorshe Ilish (Hilsa in Mustard Sauce)",
+                "ingredients": [
+                    "hilsa fish",
+                    "mustard oil",
+                    "mustard paste",
+                    "green chillies",
+                    "turmeric"
+                ],
+                "cooking_method": "steam-fry",
+                "rating": 4.8,
+                "is_favorite": true
+            },
+            {
+                "recipe_name": "Morog Polao (Chicken Pilaf)",
+                "ingredients": [
+                    "chicken",
+                    "basmati rice",
+                    "onion",
+                    "ginger",
+                    "garlic"
+                ],
+                "cooking_method": "simmer",
+                "rating": 4.5,
+                "is_favorite": false
+            },
+            {
+                "recipe_name": "Mishti Doi (Sweet Yogurt)",
+                "ingredients": ["milk", "sugar", "yogurt culture"],
+                "cooking_method": "ferment",
+                "rating": 4.7,
+                "is_favorite": true
+            }
+        ]
+    },
+    {
+        "chef_id": 2,
+        "chef_picture": "https://ibb.co/jVCy8rD",
+        "chef_name": "Rafiqul Islam",
+        "chef_bio": "Rafiqul Islam is a Bangladeshi chef with a passion for creating innovative dishes that combine traditional Bangladeshi ingredients with modern cooking techniques. He has over 15 years of experience in the culinary industry.",
+        "year_of_experience": 15,
+        "likes": 8000,
+        "recipes": [
+            {
+                "recipe_name": "Chingri Bhapa (Steamed Prawns)",
+                "ingredients": [
+                    "prawns",
+                    "coconut milk",
+                    "mustard paste",
+                    "green chillies",
+                    "coriander"
+                ],
+                "cooking_method": "steam",
+                "rating": 4.9,
+                "is_favorite": true
+            },
+            {
+                "recipe_name": "Beef Bhuna",
+                "ingredients": ["beef", "onion", "ginger", "garlic", "tomato"],
+                "cooking_method": "fry",
+                "rating": 4.6,
+                "is_favorite": false
+            },
+            {
+                "recipe_name": "Rosogolla (Spongy Sweet)",
+                "ingredients": ["milk", "sugar", "lemon juice"],
+                "cooking_method": "boil",
+                "rating": 4.8,
+                "is_favorite": true
+            }
+        ]
+    },
+    {
+        "chef_id": 3,
+        "chef_picture": "https://ibb.co/FxM3XK1",
+        "chef_name": "Farida Yasmin",
+        "chef_bio": "Farida Yasmin is a Bangladeshi chef with a talent for combining spicy and sweet flavors in her dishes. She has over a decade of experience in the culinary industry and is known for her signature dish, Biriyani.",
+        "year_of_experience": 10,
+        "likes": 7000,
+        "recipes": [
+            {
+                "recipe_name": "Chicken Biriyani",
+                "ingredients": [
+                    "chicken",
+                    "basmati rice",
+                    "onion",
+                    "ginger",
+                    "garlic",
+                    "yogurt"
+                ],
+                "cooking_method": "layer",
+                "rating": 4.9,
+                "is_favorite": true
+            },
+            {
+                "recipe_name": "Shahi Tukra (Royal Bread Pudding)",
+                "ingredients": [
+                    "bread",
+                    "milk",
+                    "sugar",
+                    "cardamom",
+                    "saffron"
+                ],
+                "cooking_method": "bake",
+                "rating": 4.7,
+                "is_favorite": false
+            },
+            {
+                "recipe_name": "Beef Rezala",
+                "ingredients": [
+                    "beef",
+                    "yogurt",
+                    "cashew nuts",
+                    "green chillies",
+                    "cinnamon"
+                ],
+                "cooking_method": "simmer",
+                "rating": 4.8,
+                "is_favorite": true
+            }
+        ]
+    },
+    {
+        "chef_id": 4,
+        "chef_picture": "https://ibb.co/Hg12bJy",
+        "chef_name": "Munira Islam",
+        "chef_bio": "Munira Islam is a Bangladeshi chef with a passion for creating healthy and flavorful dishes. She has over a decade of experience in the culinary industry and is known for her use of fresh, locally sourced ingredients.",
+        "year_of_experience": 12,
+        "likes": 6000,
+        "recipes": [
+            {
+                "recipe_name": "Palak Paneer (Spinach and Cottage Cheese Curry)",
+                "ingredients": [
+                    "spinach",
+                    "paneer",
+                    "tomato",
+                    "onion",
+                    "ginger"
+                ],
+                "cooking_method": "saute",
+                "rating": 4.7,
+                "is_favorite": true
+            },
+            {
+                "recipe_name": "Dal Makhani (Black Lentil Curry)",
+                "ingredients": [
+                    "black lentils",
+                    "kidney beans",
+                    "tomato",
+                    "cream",
+                    "butter"
+                ],
+                "cooking_method": "simmer",
+                "rating": 4.5,
+                "is_favorite": false
+            },
+            {
+                "recipe_name": "Aloo Puri (Potato and Fried Bread)",
+                "ingredients": [
+                    "potato",
+                    "flour",
+                    "green chillies",
+                    "cumin",
+                    "coriander"
+                ],
+                "cooking_method": "fry",
+                "rating": 4.6,
+                "is_favorite": true
+            }
+        ]
+    },
+    {
+        "chef_id": 5,
+        "chef_picture": "https://ibb.co/25bHn2h",
+        "chef_name": "Kamal Ahmed",
+        "chef_bio": "Kamal Ahmed is a Bangladeshi chef with a passion for creating spicy and aromatic dishes that showcase the diversity of Bangladeshi cuisine. He has over 20 years of experience in the culinary industry.",
+        "year_of_experience": 20,
+        "likes": 9000,
+        "recipes": [
+            {
+                "recipe_name": "Shami Kebab (Minced Meat Cutlets)",
+                "ingredients": [
+                    "minced beef",
+                    "chana dal",
+                    "ginger",
+                    "garlic",
+                    "green chillies"
+                ],
+                "cooking_method": "fry",
+                "rating": 4.8,
+                "is_favorite": true
+            },
+            {
+                "recipe_name": "Lau Ghanto (Bottle Gourd Curry)",
+                "ingredients": [
+                    "bottle gourd",
+                    "shrimp",
+                    "coconut",
+                    "green chillies",
+                    "turmeric"
+                ],
+                "cooking_method": "simmer",
+                "rating": 4.6,
+                "is_favorite": false
+            },
+            {
+                "recipe_name": "Chingri Macher Malaikari (Prawn Curry in Coconut Milk)",
+                "ingredients": [
+                    "prawns",
+                    "coconut milk",
+                    "green chillies",
+                    "cumin",
+                    "coriander"
+                ],
+                "cooking_method": "simmer",
+                "rating": 4.9,
+                "is_favorite": true
+            }
+        ]
+    },
+    {
+        "chef_id": 6,
+        "chef_picture": "https://ibb.co/rptpMgS",
+        "chef_name": "Mokbul Hussain",
+        "chef_bio": "Mokbul Hussain is a Bangladeshi chef with a passion for using traditional cooking methods and techniques to create authentic Bangladeshi dishes. He has over 30 years of experience in the culinary industry.",
+        "year_of_experience": 30,
+        "likes": 11000,
+        "recipes": [
+            {
+                "recipe_name": "Bhapa Pitha (Steamed Rice Cake)",
+                "ingredients": ["rice flour", "coconut", "jaggery", "cardamom"],
+                "cooking_method": "steam",
+                "rating": 4.7,
+                "is_favorite": true
+            },
+            {
+                "recipe_name": "Kala Bhuna (Slow-cooked Beef Curry)",
+                "ingredients": [
+                    "beef",
+                    "yogurt",
+                    "green chillies",
+                    "cumin",
+                    "coriander"
+                ],
+                "cooking_method": "slow-cook",
+                "rating": 4.9,
+                "is_favorite": false
+            },
+            {
+                "recipe_name": "Khichuri (Rice and Lentil Pilaf)",
+                "ingredients": ["rice", "lentils", "onion", "ginger", "cumin"],
+                "cooking_method": "simmer",
+                "rating": 4.5,
+                "is_favorite": true
+            }
+        ]
+    }
+]
