@@ -1,7 +1,7 @@
 [
     {
         "chef_id": 1,
-        "chef_picture": "https://ibb.co/X320TdM",
+        "chef_picture": "https://i.ibb.co/4dVHvwn/female1.jpg",
         "chef_name": "Nadia Rahman",
         "chef_bio": "Nadia Rahman is a renowned Bangladeshi chef with over 20 years of experience in the culinary industry. She is known for her authentic recipes and dedication to preserving traditional Bangladeshi flavors.",
         "year_of_experience": 20,
@@ -44,7 +44,7 @@
     },
     {
         "chef_id": 2,
-        "chef_picture": "https://ibb.co/jVCy8rD",
+        "chef_picture": "https://i.ibb.co/GchQLRv/male1.jpg",
         "chef_name": "Rafiqul Islam",
         "chef_bio": "Rafiqul Islam is a Bangladeshi chef with a passion for creating innovative dishes that combine traditional Bangladeshi ingredients with modern cooking techniques. He has over 15 years of experience in the culinary industry.",
         "year_of_experience": 15,
@@ -81,7 +81,7 @@
     },
     {
         "chef_id": 3,
-        "chef_picture": "https://ibb.co/FxM3XK1",
+        "chef_picture": "https://i.ibb.co/FncVVjy/female2.jpg",
         "chef_name": "Farida Yasmin",
         "chef_bio": "Farida Yasmin is a Bangladeshi chef with a talent for combining spicy and sweet flavors in her dishes. She has over a decade of experience in the culinary industry and is known for her signature dish, Biriyani.",
         "year_of_experience": 10,
@@ -131,7 +131,7 @@
     },
     {
         "chef_id": 4,
-        "chef_picture": "https://ibb.co/Hg12bJy",
+        "chef_picture": "https://i.ibb.co/7QdbS7P/female3.jpg",
         "chef_name": "Munira Islam",
         "chef_bio": "Munira Islam is a Bangladeshi chef with a passion for creating healthy and flavorful dishes. She has over a decade of experience in the culinary industry and is known for her use of fresh, locally sourced ingredients.",
         "year_of_experience": 12,
@@ -180,7 +180,7 @@
     },
     {
         "chef_id": 5,
-        "chef_picture": "https://ibb.co/25bHn2h",
+        "chef_picture": "https://i.ibb.co/C5Pb5nH/male2.jpg",
         "chef_name": "Kamal Ahmed",
         "chef_bio": "Kamal Ahmed is a Bangladeshi chef with a passion for creating spicy and aromatic dishes that showcase the diversity of Bangladeshi cuisine. He has over 20 years of experience in the culinary industry.",
         "year_of_experience": 20,
@@ -229,7 +229,7 @@
     },
     {
         "chef_id": 6,
-        "chef_picture": "https://ibb.co/rptpMgS",
+        "chef_picture": "https://i.ibb.co/86bXDkq/male3.jpg",
         "chef_name": "Mokbul Hussain",
         "chef_bio": "Mokbul Hussain is a Bangladeshi chef with a passion for using traditional cooking methods and techniques to create authentic Bangladeshi dishes. He has over 30 years of experience in the culinary industry.",
         "year_of_experience": 30,
