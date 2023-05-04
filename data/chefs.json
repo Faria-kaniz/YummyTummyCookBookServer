@@ -8,6 +8,7 @@
         "likes": 10000,
         "recipes": [
             {
+                "recipe_id": 1,
                 "recipe_name": "Shorshe Ilish (Hilsa in Mustard Sauce)",
                 "ingredients": [
                     "hilsa fish",
@@ -21,6 +22,7 @@
                 "is_favorite": true
             },
             {
+                "recipe_id": 2,
                 "recipe_name": "Morog Polao (Chicken Pilaf)",
                 "ingredients": [
                     "chicken",
@@ -34,6 +36,7 @@
                 "is_favorite": false
             },
             {
+                "recipe_id": 3,
                 "recipe_name": "Mishti Doi (Sweet Yogurt)",
                 "ingredients": ["milk", "sugar", "yogurt culture"],
                 "cooking_method": "ferment",
@@ -51,6 +54,7 @@
         "likes": 8000,
         "recipes": [
             {
+                "recipe_id": 4,
                 "recipe_name": "Chingri Bhapa (Steamed Prawns)",
                 "ingredients": [
                     "prawns",
@@ -64,6 +68,7 @@
                 "is_favorite": true
             },
             {
+                "recipe_id": 5,
                 "recipe_name": "Beef Bhuna",
                 "ingredients": ["beef", "onion", "ginger", "garlic", "tomato"],
                 "cooking_method": "fry",
@@ -71,6 +76,7 @@
                 "is_favorite": false
             },
             {
+                "recipe_id": 6,
                 "recipe_name": "Rosogolla (Spongy Sweet)",
                 "ingredients": ["milk", "sugar", "lemon juice"],
                 "cooking_method": "boil",
@@ -88,6 +94,7 @@
         "likes": 7000,
         "recipes": [
             {
+                "recipe_id": 7,
                 "recipe_name": "Chicken Biriyani",
                 "ingredients": [
                     "chicken",
@@ -102,6 +109,7 @@
                 "is_favorite": true
             },
             {
+                "recipe_id": 8,
                 "recipe_name": "Shahi Tukra (Royal Bread Pudding)",
                 "ingredients": [
                     "bread",
@@ -115,6 +123,7 @@
                 "is_favorite": false
             },
             {
+                "recipe_id": 9,
                 "recipe_name": "Beef Rezala",
                 "ingredients": [
                     "beef",
@@ -138,6 +147,7 @@
         "likes": 6000,
         "recipes": [
             {
+                "recipe_id": 10,
                 "recipe_name": "Palak Paneer (Spinach and Cottage Cheese Curry)",
                 "ingredients": [
                     "spinach",
@@ -151,6 +161,7 @@
                 "is_favorite": true
             },
             {
+                "recipe_id": 11,
                 "recipe_name": "Dal Makhani (Black Lentil Curry)",
                 "ingredients": [
                     "black lentils",
@@ -164,6 +175,7 @@
                 "is_favorite": false
             },
             {
+                "recipe_id": 12,
                 "recipe_name": "Aloo Puri (Potato and Fried Bread)",
                 "ingredients": [
                     "potato",
@@ -187,6 +199,7 @@
         "likes": 9000,
         "recipes": [
             {
+                "recipe_id": 13,
                 "recipe_name": "Shami Kebab (Minced Meat Cutlets)",
                 "ingredients": [
                     "minced beef",
@@ -200,6 +213,7 @@
                 "is_favorite": true
             },
             {
+                "recipe_id": 14,
                 "recipe_name": "Lau Ghanto (Bottle Gourd Curry)",
                 "ingredients": [
                     "bottle gourd",
@@ -213,6 +227,7 @@
                 "is_favorite": false
             },
             {
+                "recipe_id": 15,
                 "recipe_name": "Chingri Macher Malaikari (Prawn Curry in Coconut Milk)",
                 "ingredients": [
                     "prawns",
@@ -236,6 +251,7 @@
         "likes": 11000,
         "recipes": [
             {
+                "recipe_id": 16,
                 "recipe_name": "Bhapa Pitha (Steamed Rice Cake)",
                 "ingredients": ["rice flour", "coconut", "jaggery", "cardamom"],
                 "cooking_method": "steam",
@@ -243,6 +259,7 @@
                 "is_favorite": true
             },
             {
+                "recipe_id": 17,
                 "recipe_name": "Kala Bhuna (Slow-cooked Beef Curry)",
                 "ingredients": [
                     "beef",
@@ -256,6 +273,7 @@
                 "is_favorite": false
             },
             {
+                "recipe_id": 18,
                 "recipe_name": "Khichuri (Rice and Lentil Pilaf)",
                 "ingredients": ["rice", "lentils", "onion", "ginger", "cumin"],
                 "cooking_method": "simmer",
